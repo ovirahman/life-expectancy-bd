@@ -146,3 +146,4 @@ p <- plot_ly(data, x = ~x) %>%
   layout(annotations = female_2) %>%
   layout(annotations = average_1) %>%
   layout(annotations = average_2)
+p
